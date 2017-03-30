@@ -2,7 +2,7 @@
 
 ## archive.is
 
-create or view an archive of the current webpage
+use https://archive.is to create or view an archive of the current webpage
 
 ## openload
 
