@@ -1,0 +1,1 @@
+javascript:void(document.querySelectorAll('iframe[src^="https://openload.co/embed/"]').forEach(i=>window.open(i.src.replace('/embed/','/f/'))))
